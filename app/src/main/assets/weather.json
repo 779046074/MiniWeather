@@ -1,0 +1,32 @@
+[
+  {
+    "locationId": 1,
+    "location": "beijing",
+    "loc": "--",
+    "fl": "--",
+    "cond_txt": "--",
+    "wind_dir": "--",
+    "wind_sc": "--",
+    "wind_spd": "--"
+  },
+  {
+    "locationId": 2,
+    "location": "shanghai",
+    "loc": "--",
+    "fl": "--",
+    "cond_txt": "--",
+    "wind_dir": "--",
+    "wind_sc": "--",
+    "wind_spd": "--"
+  },
+  {
+    "locationId": 3,
+    "location": "dalian",
+    "loc": "--",
+    "fl": "--",
+    "cond_txt": "--",
+    "wind_dir": "--",
+    "wind_sc": "--",
+    "wind_spd": "--"
+  }
+]
